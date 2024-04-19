@@ -76,17 +76,17 @@
 
 - 6W2H法のテンプレート作成<br>
 【6W2H法の説明】<br>
-6W2Hの型にはめてアイデアを出すフレームワーク。<br>
-6W2Hには、下記の内容が含まれる。<br>
-
-Who：誰が<br>
-Whom：誰に<br>
-What：何を<br>
-How：どのように<br>
-Why：それはなぜ<br>
-When：いつ<br>
-Where：どこで<br>
-How much：いくらで<br>
+  6W2Hの型にはめてアイデアを出すフレームワーク。<br>
+  6W2Hには、下記の内容が含まれる。<br>
+  
+  Who：誰が<br>
+  Whom：誰に<br>
+  What：何を<br>
+  How：どのように<br>
+  Why：それはなぜ<br>
+  When：いつ<br>
+  Where：どこで<br>
+  How much：いくらで<br>
 
 - Userが作成したものの一覧ページ
 
